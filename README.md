@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://github.com/Abhi6722/WeatherApp">
-        <img alt="Weather App" src="https://github.com/Abhi6722/WeatherApp/blob/master/.github/Logo.png" width="146">
+    <a href="https://github.com/Abhi6722/KoltinCalculator">
+        <img alt="Kotlin Calculator" src="https://github.com/Abhi6722/KoltinCalculator/blob/master/.github/logo.png" width="146">
     </a>
 </p>
 
