@@ -15,11 +15,11 @@
 
 
 
-This is a Weather Application made with Kotlin. I am learning Kotlin so I decided to build a app using Kotlin and I came up with an idea to start with something simple through which I can learn lots of things.
+This is a Calculator Application made with Kotlin. I am learning Kotlin so I decided to build a app using Kotlin and I came up with an idea to start with something simple through which I can learn lots of things.
 
 <a id="raw-url" href="https://github.com/Abhi6722/KoltinCalculator/blob/master/.github/KotlinCalculator.apk">Download App</a>
 
 ***
 
 
-<img src="https://github.com/Abhi6722/WeatherApp/blob/master/.github/WeatherApp.png" align="centre">
+<img src="https://github.com/Abhi6722/KoltinCalculator/blob/master/.github/banner.png" align="centre">
