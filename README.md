@@ -15,7 +15,7 @@
 
 
 
-This is a Calculator Application made with Kotlin. I am learning Kotlin so I decided to build a app using Kotlin and I came up with an idea to start with something simple through which I can learn lots of things.
+This is a Calculator Application made using Kotlin. I am learning Kotlin so I decided to build a app using Kotlin and I came up with an idea to start with something simple through which I can learn lots of things.
 
 <a id="raw-url" href="https://github.com/Abhi6722/KoltinCalculator/releases/download/v1/KotlinCalculator.apk">Download App</a>
 
